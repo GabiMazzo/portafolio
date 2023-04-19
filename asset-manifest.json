@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/git@github.com:GabiMazzo/portafolio.git/static/css/main.2ffde0da.css",
+    "main.js": "/git@github.com:GabiMazzo/portafolio.git/static/js/main.255c289b.js",
+    "static/media/woman.jpg": "/git@github.com:GabiMazzo/portafolio.git/static/media/woman.83f85aed32c65497e1be.jpg",
+    "static/media/man.jpg": "/git@github.com:GabiMazzo/portafolio.git/static/media/man.cd4d88d118554a708367.jpg",
+    "index.html": "/git@github.com:GabiMazzo/portafolio.git/index.html",
+    "main.2ffde0da.css.map": "/git@github.com:GabiMazzo/portafolio.git/static/css/main.2ffde0da.css.map",
+    "main.255c289b.js.map": "/git@github.com:GabiMazzo/portafolio.git/static/js/main.255c289b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ffde0da.css",
+    "static/js/main.255c289b.js"
+  ]
+}

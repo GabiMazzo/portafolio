@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/git@github.com:GabiMazzo/portafolio/static/css/main.2ffde0da.css",
-    "main.js": "/git@github.com:GabiMazzo/portafolio/static/js/main.c4a920a0.js",
-    "static/media/woman.jpg": "/git@github.com:GabiMazzo/portafolio/static/media/woman.83f85aed32c65497e1be.jpg",
-    "static/media/man.jpg": "/git@github.com:GabiMazzo/portafolio/static/media/man.cd4d88d118554a708367.jpg",
-    "index.html": "/git@github.com:GabiMazzo/portafolio/index.html",
-    "main.2ffde0da.css.map": "/git@github.com:GabiMazzo/portafolio/static/css/main.2ffde0da.css.map",
-    "main.c4a920a0.js.map": "/git@github.com:GabiMazzo/portafolio/static/js/main.c4a920a0.js.map"
+    "main.css": "/git@github.com:https://gabimazzo.github.io/portafolio/static/css/main.2ffde0da.css",
+    "main.js": "/git@github.com:https://gabimazzo.github.io/portafolio/static/js/main.001a6e74.js",
+    "static/media/woman.jpg": "/git@github.com:https://gabimazzo.github.io/portafolio/static/media/woman.83f85aed32c65497e1be.jpg",
+    "static/media/man.jpg": "/git@github.com:https://gabimazzo.github.io/portafolio/static/media/man.cd4d88d118554a708367.jpg",
+    "index.html": "/git@github.com:https://gabimazzo.github.io/portafolio/index.html",
+    "main.2ffde0da.css.map": "/git@github.com:https://gabimazzo.github.io/portafolio/static/css/main.2ffde0da.css.map",
+    "main.001a6e74.js.map": "/git@github.com:https://gabimazzo.github.io/portafolio/static/js/main.001a6e74.js.map"
   },
   "entrypoints": [
     "static/css/main.2ffde0da.css",
-    "static/js/main.c4a920a0.js"
+    "static/js/main.001a6e74.js"
   ]
 }
